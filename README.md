@@ -6,4 +6,4 @@ https://discord.gg/a4R8escfuS
 ## Historia
 #### voce acaba se perdendo, te resta sobreviver explorando esse increvel mundo aberteto, lute contra monstros, explore dungeos, como qualquer RPG
 ## Ideias pro futuro
-### Adciona um modo multiplayer de battle royale
+##### Adciona um modo multiplayer de battle royale
