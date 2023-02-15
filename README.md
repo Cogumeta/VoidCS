@@ -1,4 +1,3 @@
-https://discord.gg/a4R8escfuS
 # Void
 ## Sobre
 #### Void e um projeto de um RPG de plataforma com varias mecanicas diferentes em 2D
